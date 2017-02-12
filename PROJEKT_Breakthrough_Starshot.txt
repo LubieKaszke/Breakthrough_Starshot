@@ -1,0 +1,30 @@
+Rok 2100+. 
+Akcja rozgrywa sie na stacji kosmicznej/duzym statku.
+Zostaje on zaatakowany przez inna frakcje/kosmitow.
+Wcielamy sie w jednego z czlonkow zalogi.
+W czasie ataku bylismy w swojej kwaterze wiec nie mamy dostepu do kontroli statku/stacji.
+Do dyspozycji mamy swoj skafander(wyglad postaci na wzor skafandrow kosmicznych NASA) ktory wyposazony jest w latarke zamontowana na helmie oraz w butle z tlenem potrzebnym do wyjscia na zewnatrz.
+Mozliwe upgrady skafandra.
+Stacja zostala uszkodzona w paru miejscach przez co w niektorych fragmentach wystempuje proznia, a w innych brak grawitacji.
+Musimy wykozystywac np brak grawitacji by pokonac niektore fragmenty mapy.
+Po drodze mozemy natknac sie na wrogow z ktorymi zazwyczaj nie mamy szans wygrac w starciu 1v1.
+Uzywamy wiec elementow stacji takich jak sluzy bezpieczenstwa aby pozbyc sie wrogow bez walki.
+Szczegolnie chcialbym zwrocic uwage na uzywanie grawitacji do swoich potrzeb.
+Do dyspozycji bedziemy mieli takze ograniczone nazedzia potrzebne do przedarcia sie do kolejnych czesci stacji.
+Bedzie to glowny cel poczatkowej fazy gry.
+Nastepnie bedziemy probowac odzyskac kontrole nad stacja lub wezwania pomocy.
+Jesli chcemy miec wiecej histori mozemy dodac pare NPC.
+Wiekszosc poziomow jest zagadka logiczna z elementami zrecznosciowymi.
+Z tego co sie orjetuje to mamy zamiar robic gre w Unrealu.
+Zakladamy ze jest to gra 2d z widokiem z boku.
+Kolorystyka trzymana w ciemnych zimnych kolorach. 
+
+
+strzeszczenie:
+CZAS: 				Przyszlosc.
+MIEJSCE:			Stacja/statek kozmiczna/y.
+MECHANIKA:  		Gra logiczna z elementami zrecznosciowymi.
+WYGLAD:				2d z widokiem z boku.
+KOLORYSTYKA:		Ciemne zimne barwy.
+SILNIK GRAFICZNY:	Unreal Engine 4
+ 
